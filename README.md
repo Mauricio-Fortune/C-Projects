@@ -1,2 +1,2 @@
 # C-Projects--Intermediate
-These are intermediate level C projects I made
+These are projects that I worked on in C. They test a variety of concepts and cannot be completed without a strong understanding of these concepts. 
