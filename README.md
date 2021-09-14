@@ -1,2 +1,2 @@
-# C-Projects-Difficulty-Easy
-These are simple C projects I worked on
+# C-Projects-Difficulty-Intermediate
+These are intermediate level C projects I made
